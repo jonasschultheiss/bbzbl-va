@@ -24,7 +24,7 @@
 \newcommand{\docname}{Alltagstauglicher gesunder Lebensstil}
 \newcommand{\compiledfilename}{Vertiefungsarbeit-DG-BB-JS.pdf}
 \newcommand{\docauthor}{Dario Grob, Bastian Büeler, Jonas Schultheiss}
-\newcommand{\task}{Vertiefungsarbeit} % e.g. Modul 152/IPA/...
+\newcommand{\task}{Vertiefungsarbeit 2020} % e.g. Modul 152/IPA/...
 \newcommand{\clientlogopath}{./images/BBZBL_logo.png}
 
 
@@ -69,6 +69,7 @@
 \usepackage{url}
 \usepackage{wrapfig}
 \usepackage{xcolor}
+\usepackage{afterpage}
 
 %%%%%%%%
 % Colors
@@ -108,6 +109,16 @@
 %%%%%
 
 \renewcommand{\cftchapafterpnum}{\vspace{5pt}}
+
+%%%%%%%%%%%%
+% Empty Page
+%%%%%%%%%%%%
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
 
 %%%%%
 % LOF
@@ -149,10 +160,10 @@
   filecolor=black,          % Links zu lokalen Dateien: schwarz
   menucolor=black,          % Acrobat Menü Einträge: schwarz
   urlcolor=black,           % URL-Farbe: schwarz
-  pdftitle={OSEDashboard},
-  pdfauthor={Jonas Schultheiss},
-  pdfsubject={OSEDashboard},
-  pdfkeywords={OSE, OSEDashboard, Dashboard}
+  pdftitle={Vertiefungsarbeit 2020},
+  pdfauthor={Dario Grob, Bastian Büeler, Jonas Schultheiss},
+  pdfsubject={Alltagstauglicher gesunder Lebensstil},
+  pdfkeywords={VA, Vertiefungsarbeit, Gesunder, Lebensstil}
 ]{hyperref}
 
 %%%%%%%%%%%%%%
