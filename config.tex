@@ -21,10 +21,11 @@
 
 \newcommand{\version}{0.1}
 \newcommand{\docdate}{\today}
-\newcommand{\docname}{Document name}
-\newcommand{\docauthor}{Name Surname}
-\newcommand{\task}{Task name} % e.g. Modul 152/IPA/...
-\newcommand{\clientlogopath}{./images/eh-logo.png}
+\newcommand{\docname}{Alltagstauglicher gesunder Lebensstil}
+\newcommand{\compiledfilename}{Vertiefungsarbeit-DG-BB-JS.pdf}
+\newcommand{\docauthor}{Dario Grob, Bastian Büeler, Jonas Schultheiss}
+\newcommand{\task}{Vertiefungsarbeit} % e.g. Modul 152/IPA/...
+\newcommand{\clientlogopath}{./images/BBZBL_logo.png}
 
 
 
@@ -40,16 +41,15 @@
   bottom=35mm,
   headheight=35mm
 ]{geometry}
+\usepackage[utf8]{inputenc}
 \usepackage[babel,german=swiss]{csquotes}
 \usepackage[ngerman]{babel}
-\usepackage[printonlyused]{acronym}
 \usepackage[printonlyused]{acronym}
 \usepackage[section]{placeins}
 \usepackage[Sonny]{fncychap}
 \usepackage[T1]{fontenc}
 \usepackage[T1]{fontenc}
 \usepackage[table]{xcolor}
-\usepackage[utf8]{inputenc}
 \usepackage{caption}
 \usepackage{color}
 \usepackage{fancyhdr}
@@ -89,9 +89,9 @@
 \renewcommand{\partpagestyle}{fancy}
 \fancyhead{}
 \fancyhead[R]{\fontsize{10}{12} \selectfont \textbf{\task} \\ \fontsize{8}{10} \selectfont \docauthor \\ \docname}
-\fancyhead[L]{\includegraphics[width=6cm]{\clientlogopath}}
+\fancyhead[L]{\includegraphics[width=5cm]{\clientlogopath}}
 \fancyfoot{}
-\fancyfoot[L]{\fontsize{10}{11} \selectfont \filename.pdf}
+\fancyfoot[L]{\fontsize{10}{11} \selectfont \compiledfilename}
 \fancyfoot[C]{\fontsize{9}{11} \docdate}
 \fancyfoot[R]{\fontsize{10}{11} \selectfont Seite \thepage\ von \pageref{LastPage}}
 
@@ -149,10 +149,10 @@
   filecolor=black,          % Links zu lokalen Dateien: schwarz
   menucolor=black,          % Acrobat Menü Einträge: schwarz
   urlcolor=black,           % URL-Farbe: schwarz
-  pdftitle={Gruppe 34},
-  pdfauthor={Gruppe 34},
-  pdfsubject={PREN Dokumentation},
-  pdfkeywords={pren, pren2}
+  pdftitle={OSEDashboard},
+  pdfauthor={Jonas Schultheiss},
+  pdfsubject={OSEDashboard},
+  pdfkeywords={OSE, OSEDashboard, Dashboard}
 ]{hyperref}
 
 %%%%%%%%%%%%%%
@@ -160,6 +160,13 @@
 %%%%%%%%%%%%%%
 
 \setlength{\parindent}{0pt}
+
+%%%%%%%%%
+% Columns
+%%%%%%%%%
+
+\setlength{\columnseprule}{1pt}
+\def\columnseprulecolor{\color{black}}
 
 %%%%%%%%%%%%%
 % Titel fonts
