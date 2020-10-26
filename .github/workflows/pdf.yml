@@ -12,5 +12,5 @@ jobs:
           root_file: main.tex
       - uses: actions/upload-artifact@v1
         with:
-          name: Vertiefungsarbeit_DG_BB_JS
-          path: Vertiefungsarbeit_DG_BB_JS.pdf
+          name: Vertiefungsarbeit-DG-BB-JS
+          path: Vertiefungsarbeit-DG-BB-JS.pdf
