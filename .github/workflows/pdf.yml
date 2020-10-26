@@ -9,7 +9,7 @@ jobs:
         uses: xu-cheng/latex-action@1.2.1
         with:
           working_directory: ./
-          root_file: main.tex
+          root_file: Vertiefungsarbeit-DG-BB-JS.tex
       - uses: actions/upload-artifact@v1
         with:
           name: Vertiefungsarbeit-DG-BB-JS
