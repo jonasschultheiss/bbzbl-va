@@ -1,0 +1,464 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{stufe_fleisch_fisch_eier_tofu_2}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e0c43b12efb1cbc7f023f29308fd2c34}{%
+           family={Ernährung},
+           familyi={E\bibinitperiod},
+           given={Schweizerische\bibnamedelima Gesellschaft},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Schweizerische Gesellschaft für Ernährung}%
+      }
+      \strng{namehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{fullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{bibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorbibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authornamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorfullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fleisch, Fisch, Eier \& Tofu}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sge-ssn.ch/media/Stufe_Fleisch_Fisch_Eier_Tofu_2.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.sge-ssn.ch/media/Stufe_Fleisch_Fisch_Eier_Tofu_2.pdf
+      \endverb
+    \endentry
+    \entry{stufe_gemuese_fruechte}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e0c43b12efb1cbc7f023f29308fd2c34}{%
+           family={Ernährung},
+           familyi={E\bibinitperiod},
+           given={Schweizerische\bibnamedelima Gesellschaft},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Schweizerische Gesellschaft für Ernährung}%
+      }
+      \strng{namehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{fullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{bibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorbibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authornamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorfullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gemüse \& Früchte}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sge-ssn.ch/media/stufe_gemuese_fruechte.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.sge-ssn.ch/media/stufe_gemuese_fruechte.pdf
+      \endverb
+    \endentry
+    \entry{stufe_getraenke}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e0c43b12efb1cbc7f023f29308fd2c34}{%
+           family={Ernährung},
+           familyi={E\bibinitperiod},
+           given={Schweizerische\bibnamedelima Gesellschaft},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Schweizerische Gesellschaft für Ernährung}%
+      }
+      \strng{namehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{fullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{bibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorbibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authornamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorfullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Getränke}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sge-ssn.ch/media/stufe_getraenke.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.sge-ssn.ch/media/stufe_getraenke.pdf
+      \endverb
+    \endentry
+    \entry{stufe_getreideprodukte_kartoffeln_huelsenfruechte}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e0c43b12efb1cbc7f023f29308fd2c34}{%
+           family={Ernährung},
+           familyi={E\bibinitperiod},
+           given={Schweizerische\bibnamedelima Gesellschaft},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Schweizerische Gesellschaft für Ernährung}%
+      }
+      \strng{namehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{fullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{bibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorbibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authornamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorfullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Getreideprodukte, Kartoffeln \& Hülsenfrüchte}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sge-ssn.ch/media/stufe_getreideprodukte_kartoffeln_huelsenfruechte.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.sge-ssn.ch/media/stufe_getreideprodukte_kartoffeln_huelsenfruechte.pdf
+      \endverb
+    \endentry
+    \entry{stufe_milch_milchprodukte}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e0c43b12efb1cbc7f023f29308fd2c34}{%
+           family={Ernährung},
+           familyi={E\bibinitperiod},
+           given={Schweizerische\bibnamedelima Gesellschaft},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Schweizerische Gesellschaft für Ernährung}%
+      }
+      \strng{namehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{fullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{bibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorbibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authornamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorfullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \field{extraname}{5}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Milch und Milchprodukte}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sge-ssn.ch/media/Stufe_Milch_Milchprodukte.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.sge-ssn.ch/media/Stufe_Milch_Milchprodukte.pdf
+      \endverb
+    \endentry
+    \entry{stufe_le_fette_nuesse}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e0c43b12efb1cbc7f023f29308fd2c34}{%
+           family={Ernährung},
+           familyi={E\bibinitperiod},
+           given={Schweizerische\bibnamedelima Gesellschaft},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Schweizerische Gesellschaft für Ernährung}%
+      }
+      \strng{namehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{fullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{bibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorbibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authornamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorfullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \field{extraname}{6}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Öle, Fette \& Nüsse}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sge-ssn.ch/media/stufe_le_fette_nuesse.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.sge-ssn.ch/media/stufe_le_fette_nuesse.pdf
+      \endverb
+    \endentry
+    \entry{stufe_suesses_salziges_alkoholisches}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e0c43b12efb1cbc7f023f29308fd2c34}{%
+           family={Ernährung},
+           familyi={E\bibinitperiod},
+           given={Schweizerische\bibnamedelima Gesellschaft},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Schweizerische Gesellschaft für Ernährung}%
+      }
+      \strng{namehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{fullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{bibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorbibnamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authornamehash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \strng{authorfullhash}{e0c43b12efb1cbc7f023f29308fd2c34}
+      \field{extraname}{7}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Süsses, Salziges \& Alkoholisches}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.sge-ssn.ch/media/stufe_suesses_salziges_alkoholisches.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.sge-ssn.ch/media/stufe_suesses_salziges_alkoholisches.pdf
+      \endverb
+    \endentry
+    \entry{bewegungsfoerderung}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d57ba068106d7785da66887ed947d135}{%
+           family={Gesundheit\bibnamedelima BAG},
+           familyi={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Bundesamt},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Admin.ch}%
+      }
+      \strng{namehash}{d57ba068106d7785da66887ed947d135}
+      \strng{fullhash}{d57ba068106d7785da66887ed947d135}
+      \strng{bibnamehash}{d57ba068106d7785da66887ed947d135}
+      \strng{authorbibnamehash}{d57ba068106d7785da66887ed947d135}
+      \strng{authornamehash}{d57ba068106d7785da66887ed947d135}
+      \strng{authorfullhash}{d57ba068106d7785da66887ed947d135}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bewegungsförderung}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bag.admin.ch/bag/de/home/gesund-leben/gesundheitsfoerderung-und-praevention/bewegungsfoerderung.html
+      \endverb
+      \verb{url}
+      \verb https://www.bag.admin.ch/bag/de/home/gesund-leben/gesundheitsfoerderung-und-praevention/bewegungsfoerderung.html
+      \endverb
+    \endentry
+    \entry{schlaf-grundbeduerfnis-und-lebenselixier}{online}{}
+      \name{author}{1}{}{%
+        {{hash=243a62dfd51be13360280ea5ec3474d7}{%
+           family={Gesundheit.de},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Gesundheit.de}%
+      }
+      \list{publisher}{1}{%
+        {Gesundheit.de}%
+      }
+      \strng{namehash}{243a62dfd51be13360280ea5ec3474d7}
+      \strng{fullhash}{243a62dfd51be13360280ea5ec3474d7}
+      \strng{bibnamehash}{243a62dfd51be13360280ea5ec3474d7}
+      \strng{authorbibnamehash}{243a62dfd51be13360280ea5ec3474d7}
+      \strng{authornamehash}{243a62dfd51be13360280ea5ec3474d7}
+      \strng{authorfullhash}{243a62dfd51be13360280ea5ec3474d7}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{02}
+      \field{title}{Schlaf - Grundbedürfnis und Lebenselixier}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gesundheit.de/krankheiten/gehirn-und-nerven/schlafstoerungen/schlaf-grundbeduerfnis-und-lebenselixier
+      \endverb
+      \verb{url}
+      \verb https://www.gesundheit.de/krankheiten/gehirn-und-nerven/schlafstoerungen/schlaf-grundbeduerfnis-und-lebenselixier
+      \endverb
+    \endentry
+    \entry{hormone-bei-bewegung}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bd5d6455cc0d452ae5b6b1e4c9304f8e}{%
+           family={Mutter},
+           familyi={M\bibinitperiod},
+           given={Rosalie},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {CSS Versicherung}%
+      }
+      \list{publisher}{1}{%
+        {CSS Versicherung}%
+      }
+      \strng{namehash}{bd5d6455cc0d452ae5b6b1e4c9304f8e}
+      \strng{fullhash}{bd5d6455cc0d452ae5b6b1e4c9304f8e}
+      \strng{bibnamehash}{bd5d6455cc0d452ae5b6b1e4c9304f8e}
+      \strng{authorbibnamehash}{bd5d6455cc0d452ae5b6b1e4c9304f8e}
+      \strng{authornamehash}{bd5d6455cc0d452ae5b6b1e4c9304f8e}
+      \strng{authorfullhash}{bd5d6455cc0d452ae5b6b1e4c9304f8e}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Welche Hormone werden bei Bewegung freigesetzt?}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.css.ch/de/privatkunden/meine-gesundheit/bewegung/fitness-bewegungstipps/hormone-bei-bewegung.html
+      \endverb
+      \verb{url}
+      \verb https://www.css.ch/de/privatkunden/meine-gesundheit/bewegung/fitness-bewegungstipps/hormone-bei-bewegung.html
+      \endverb
+    \endentry
+    \entry{bundesamtfrstatistik_2015_schlafstoerungen}{online}{}
+      \name{author}{1}{}{%
+        {{hash=528b9033d451d1a9871b2d5d98249003}{%
+           family={Statistik},
+           familyi={S\bibinitperiod},
+           given={Bundesamt},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Bundesamt für Statistik}%
+      }
+      \strng{namehash}{528b9033d451d1a9871b2d5d98249003}
+      \strng{fullhash}{528b9033d451d1a9871b2d5d98249003}
+      \strng{bibnamehash}{528b9033d451d1a9871b2d5d98249003}
+      \strng{authorbibnamehash}{528b9033d451d1a9871b2d5d98249003}
+      \strng{authornamehash}{528b9033d451d1a9871b2d5d98249003}
+      \strng{authorfullhash}{528b9033d451d1a9871b2d5d98249003}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{05}
+      \field{title}{Schlafstörungen in der Bevölkerung - Schweizerische Gesundheitsbefragung 2012}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/erhebungen/sgb.assetdetail.350820.html
+      \endverb
+      \verb{url}
+      \verb https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/erhebungen/sgb.assetdetail.350820.html
+      \endverb
+    \endentry
+    \entry{gesundheit_definition}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3d78a26a20cc6c49d8cbc9a9a3cc587f}{%
+           family={Wikimedia-Projekte},
+           familyi={W\bibinithyphendelim P\bibinitperiod},
+           given={Autoren},
+           giveni={A\bibinitperiod},
+           prefix={der},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Wikipedia.org}%
+      }
+      \list{publisher}{1}{%
+        {Wikimedia Foundation, Inc.}%
+      }
+      \strng{namehash}{3d78a26a20cc6c49d8cbc9a9a3cc587f}
+      \strng{fullhash}{3d78a26a20cc6c49d8cbc9a9a3cc587f}
+      \strng{bibnamehash}{3d78a26a20cc6c49d8cbc9a9a3cc587f}
+      \strng{authorbibnamehash}{3d78a26a20cc6c49d8cbc9a9a3cc587f}
+      \strng{authornamehash}{3d78a26a20cc6c49d8cbc9a9a3cc587f}
+      \strng{authorfullhash}{3d78a26a20cc6c49d8cbc9a9a3cc587f}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{08}
+      \field{title}{Zustand des vollständigen körperlichen, geistigen und sozialen Wohlergehens}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://de.wikipedia.org/wiki/Gesundheit#Definitionen
+      \endverb
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/Gesundheit#Definitionen
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
