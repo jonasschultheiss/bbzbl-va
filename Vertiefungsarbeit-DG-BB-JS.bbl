@@ -271,6 +271,43 @@
       \verb https://www.sge-ssn.ch/media/stufe_suesses_salziges_alkoholisches.pdf
       \endverb
     \endentry
+    \entry{bundesamtfrgesundheitbag_2020_aufstehen}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d57ba068106d7785da66887ed947d135}{%
+           family={Gesundheit\bibnamedelima BAG},
+           familyi={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Bundesamt},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Admin.ch}%
+      }
+      \strng{namehash}{d57ba068106d7785da66887ed947d135}
+      \strng{fullhash}{d57ba068106d7785da66887ed947d135}
+      \strng{bibnamehash}{d57ba068106d7785da66887ed947d135}
+      \strng{authorbibnamehash}{d57ba068106d7785da66887ed947d135}
+      \strng{authornamehash}{d57ba068106d7785da66887ed947d135}
+      \strng{authorfullhash}{d57ba068106d7785da66887ed947d135}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aufstehen}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bag.admin.ch/bag/de/home/gesund-leben/gesundheitsfoerderung-und-praevention/bewegungsfoerderung/auf-stehen.html
+      \endverb
+      \verb{url}
+      \verb https://www.bag.admin.ch/bag/de/home/gesund-leben/gesundheitsfoerderung-und-praevention/bewegungsfoerderung/auf-stehen.html
+      \endverb
+    \endentry
     \entry{bewegungsfoerderung}{online}{}
       \name{author}{1}{}{%
         {{hash=d57ba068106d7785da66887ed947d135}{%
@@ -290,6 +327,7 @@
       \strng{authorbibnamehash}{d57ba068106d7785da66887ed947d135}
       \strng{authornamehash}{d57ba068106d7785da66887ed947d135}
       \strng{authorfullhash}{d57ba068106d7785da66887ed947d135}
+      \field{extraname}{2}
       \field{sortinit}{G}
       \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
       \field{labelnamesource}{author}
@@ -305,6 +343,43 @@
       \endverb
       \verb{url}
       \verb https://www.bag.admin.ch/bag/de/home/gesund-leben/gesundheitsfoerderung-und-praevention/bewegungsfoerderung.html
+      \endverb
+    \endentry
+    \entry{bundesamtfrgesundheitbag_2015_tabak}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d57ba068106d7785da66887ed947d135}{%
+           family={Gesundheit\bibnamedelima BAG},
+           familyi={G\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Bundesamt},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Admin.ch}%
+      }
+      \strng{namehash}{d57ba068106d7785da66887ed947d135}
+      \strng{fullhash}{d57ba068106d7785da66887ed947d135}
+      \strng{bibnamehash}{d57ba068106d7785da66887ed947d135}
+      \strng{authorbibnamehash}{d57ba068106d7785da66887ed947d135}
+      \strng{authornamehash}{d57ba068106d7785da66887ed947d135}
+      \strng{authorfullhash}{d57ba068106d7785da66887ed947d135}
+      \field{extraname}{3}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tabak verursacht jährlich 9500 Todesfälle}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bag.admin.ch/bag/de/home/gesund-leben/sucht-und-gesundheit/tabak.html
+      \endverb
+      \verb{url}
+      \verb https://www.bag.admin.ch/bag/de/home/gesund-leben/sucht-und-gesundheit/tabak.html
       \endverb
     \endentry
     \entry{schlaf-grundbeduerfnis-und-lebenselixier}{online}{}
@@ -341,6 +416,49 @@
       \endverb
       \verb{url}
       \verb https://www.gesundheit.de/krankheiten/gehirn-und-nerven/schlafstoerungen/schlaf-grundbeduerfnis-und-lebenselixier
+      \endverb
+    \endentry
+    \entry{all-about-body-type-eating}{online}{}
+      \name{author}{2}{}{%
+        {{hash=f5513aaedc5d2d53c54306e8cd136434}{%
+           family={Kollias},
+           familyi={K\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=60d76d6260ed3c3850bca7acbade9c87}{%
+           family={Andrews},
+           familyi={A\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Precision Nutrition}%
+      }
+      \list{publisher}{1}{%
+        {Precision Nutrition}%
+      }
+      \strng{namehash}{8ad8f9be0044803bdd7e95f7c457e142}
+      \strng{fullhash}{8ad8f9be0044803bdd7e95f7c457e142}
+      \strng{bibnamehash}{8ad8f9be0044803bdd7e95f7c457e142}
+      \strng{authorbibnamehash}{8ad8f9be0044803bdd7e95f7c457e142}
+      \strng{authornamehash}{8ad8f9be0044803bdd7e95f7c457e142}
+      \strng{authorfullhash}{8ad8f9be0044803bdd7e95f7c457e142}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{02}
+      \field{title}{Body type dieting for ectomorphs, endomorphs, and mesomorphs: Is it right for you?}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.precisionnutrition.com/all-about-body-type-eating
+      \endverb
+      \verb{url}
+      \verb https://www.precisionnutrition.com/all-about-body-type-eating
       \endverb
     \endentry
     \entry{hormone-bei-bewegung}{online}{}
@@ -381,6 +499,44 @@
       \verb https://www.css.ch/de/privatkunden/meine-gesundheit/bewegung/fitness-bewegungstipps/hormone-bei-bewegung.html
       \endverb
     \endentry
+    \entry{bundesamtfrstatistik_2019_arbeitsbedingungen}{online}{}
+      \name{author}{1}{}{%
+        {{hash=528b9033d451d1a9871b2d5d98249003}{%
+           family={Statistik},
+           familyi={S\bibinitperiod},
+           given={Bundesamt},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Bundesamt für Statistik}%
+      }
+      \strng{namehash}{528b9033d451d1a9871b2d5d98249003}
+      \strng{fullhash}{528b9033d451d1a9871b2d5d98249003}
+      \strng{bibnamehash}{528b9033d451d1a9871b2d5d98249003}
+      \strng{authorbibnamehash}{528b9033d451d1a9871b2d5d98249003}
+      \strng{authornamehash}{528b9033d451d1a9871b2d5d98249003}
+      \strng{authorfullhash}{528b9033d451d1a9871b2d5d98249003}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{08}
+      \field{title}{Arbeitsbedingungen und Gesundheitszustand, 2012-2017 - Schweizerischen Gesundheitsbefragung (SGB)}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bfs.admin.ch/bfs/de/home/aktuell/neue-veroeffentlichungen.assetdetail.9366230.html
+      \endverb
+      \verb{url}
+      \verb https://www.bfs.admin.ch/bfs/de/home/aktuell/neue-veroeffentlichungen.assetdetail.9366230.html
+      \endverb
+    \endentry
     \entry{bundesamtfrstatistik_2015_schlafstoerungen}{online}{}
       \name{author}{1}{}{%
         {{hash=528b9033d451d1a9871b2d5d98249003}{%
@@ -400,6 +556,7 @@
       \strng{authorbibnamehash}{528b9033d451d1a9871b2d5d98249003}
       \strng{authornamehash}{528b9033d451d1a9871b2d5d98249003}
       \strng{authorfullhash}{528b9033d451d1a9871b2d5d98249003}
+      \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{labelnamesource}{author}
@@ -416,6 +573,30 @@
       \endverb
       \verb{url}
       \verb https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/erhebungen/sgb.assetdetail.350820.html
+      \endverb
+    \endentry
+    \entry{stress-symptoms}{online}{}
+      \list{organization}{1}{%
+        {Healthdirect.gov.au}%
+      }
+      \list{publisher}{1}{%
+        {Healthdirect Australia}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labeltitlesource}{title}
+      \field{month}{06}
+      \field{title}{Symptoms of stress}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.healthdirect.gov.au/stress-symptoms
+      \endverb
+      \verb{url}
+      \verb https://www.healthdirect.gov.au/stress-symptoms
       \endverb
     \endentry
     \entry{gesundheit_definition}{online}{}

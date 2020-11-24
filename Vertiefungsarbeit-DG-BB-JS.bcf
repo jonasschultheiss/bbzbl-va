@@ -2194,6 +2194,13 @@
     <bcf:citekey order="10">bewegungsfoerderung</bcf:citekey>
     <bcf:citekey order="11">bundesamtfrstatistik_2015_schlafstoerungen</bcf:citekey>
     <bcf:citekey order="12">schlaf-grundbeduerfnis-und-lebenselixier</bcf:citekey>
+    <bcf:citekey order="13">bundesamtfrstatistik_2019_arbeitsbedingungen</bcf:citekey>
+    <bcf:citekey order="14">stress-symptoms</bcf:citekey>
+    <bcf:citekey order="15">bundesamtfrgesundheitbag_2020_aufstehen</bcf:citekey>
+    <bcf:citekey order="16">bundesamtfrgesundheitbag_2015_tabak</bcf:citekey>
+    <bcf:citekey order="17">all-about-body-type-eating</bcf:citekey>
+    <bcf:citekey order="18">all-about-body-type-eating</bcf:citekey>
+    <bcf:citekey order="19">all-about-body-type-eating</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
