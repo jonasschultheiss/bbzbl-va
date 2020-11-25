@@ -418,6 +418,40 @@
       \verb https://www.gesundheit.de/krankheiten/gehirn-und-nerven/schlafstoerungen/schlaf-grundbeduerfnis-und-lebenselixier
       \endverb
     \endentry
+    \entry{bulletjournal_2020}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c90a509a60aa7b689b2a6c6995566a44}{%
+           family={Journal},
+           familyi={J\bibinitperiod},
+           given={Bullet},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Bullet Journal}%
+      }
+      \strng{namehash}{c90a509a60aa7b689b2a6c6995566a44}
+      \strng{fullhash}{c90a509a60aa7b689b2a6c6995566a44}
+      \strng{bibnamehash}{c90a509a60aa7b689b2a6c6995566a44}
+      \strng{authorbibnamehash}{c90a509a60aa7b689b2a6c6995566a44}
+      \strng{authornamehash}{c90a509a60aa7b689b2a6c6995566a44}
+      \strng{authorfullhash}{c90a509a60aa7b689b2a6c6995566a44}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bullet Journal}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://bulletjournal.com/
+      \endverb
+      \verb{url}
+      \verb https://bulletjournal.com/
+      \endverb
+    \endentry
     \entry{all-about-body-type-eating}{online}{}
       \name{author}{2}{}{%
         {{hash=f5513aaedc5d2d53c54306e8cd136434}{%
