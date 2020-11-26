@@ -21,9 +21,13 @@
 
 \newcommand{\version}{0.1}
 \newcommand{\docdate}{\today}
+\newcommand{\dario}{Dario Grob}
+\newcommand{\bastian}{Bastian Büeler}
+\newcommand{\jonas}{Jonas Schultheiss}
+\newcommand{\alle}{\bastian, \dario, \jonas}
 \newcommand{\docname}{Alltagstauglicher gesunder Lebensstil}
 \newcommand{\compiledfilename}{Vertiefungsarbeit-DG-BB-JS.pdf}
-\newcommand{\docauthor}{Dario Grob, Bastian Büeler, Jonas Schultheiss}
+\newcommand{\docauthor}{\alle}
 \newcommand{\task}{Vertiefungsarbeit 2020} % e.g. Modul 152/IPA/...
 \newcommand{\clientlogopath}{./images/BBZBL_logo.png}
 
@@ -71,6 +75,7 @@
 \usepackage{xcolor}
 \usepackage{afterpage}
 \usepackage[backend=biber, style=numeric]{biblatex}
+\usepackage{suffix}
 
 %%%%%%%%
 % Colors
@@ -187,3 +192,21 @@
 \newcommand{\titlesize}{\fontsize{25pt}{20pt}\selectfont}
 \newcommand{\subtitlesize}{\fontsize{15pt}{10pt}\selectfont}
 \newcommand{\subsubtitlesize}{\fontsize{10pt}{5pt}\selectfont}
+
+\newcommand\chapterauthor[1]{\authortoc{Von #1}\printchapterauthor{Von #1}}
+\WithSuffix\newcommand\chapterauthor*[1]{\printchapterauthor{Von #1}}
+
+\makeatletter\@openrightfalse
+\newcommand{\printchapterauthor}[1]{%
+  {\parindent0pt\vspace*{-60pt}%
+  \linespread{1.1}\large\scshape#1%
+  \par\nobreak\vspace*{35pt}}
+  \@afterheading%
+}
+\newcommand{\authortoc}[1]{%
+  \addtocontents{toc}{\vskip-10pt}%
+  \addtocontents{toc}{%
+    \protect\contentsline{chapter}%
+    {\hskip1.3em\mdseries\scshape\protect\scriptsize#1}{}{}}
+}
+\makeatother

@@ -633,6 +633,18 @@
       \verb https://www.healthdirect.gov.au/stress-symptoms
       \endverb
     \endentry
+    \entry{titelbild}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labeltitlesource}{title}
+      \field{title}{Titel Bild}
+      \verb{urlraw}
+      \verb https://thevideoink.com/wp-content/uploads/2020/01/maintaining-a-healthy-lifestyle.jpeg
+      \endverb
+      \verb{url}
+      \verb https://thevideoink.com/wp-content/uploads/2020/01/maintaining-a-healthy-lifestyle.jpeg
+      \endverb
+    \endentry
     \entry{gesundheit_definition}{online}{}
       \name{author}{1}{}{%
         {{hash=3d78a26a20cc6c49d8cbc9a9a3cc587f}{%

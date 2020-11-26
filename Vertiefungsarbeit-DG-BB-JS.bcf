@@ -2182,28 +2182,29 @@
     <bcf:datasource type="file" datatype="bibtex">quellen.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">gesundheit_definition</bcf:citekey>
-    <bcf:citekey order="2">stufe_getraenke</bcf:citekey>
-    <bcf:citekey order="3">stufe_gemuese_fruechte</bcf:citekey>
-    <bcf:citekey order="4">stufe_getreideprodukte_kartoffeln_huelsenfruechte</bcf:citekey>
-    <bcf:citekey order="5">stufe_milch_milchprodukte</bcf:citekey>
-    <bcf:citekey order="6">stufe_fleisch_fisch_eier_tofu_2</bcf:citekey>
-    <bcf:citekey order="7">stufe_le_fette_nuesse</bcf:citekey>
-    <bcf:citekey order="8">stufe_suesses_salziges_alkoholisches</bcf:citekey>
-    <bcf:citekey order="9">hormone-bei-bewegung</bcf:citekey>
-    <bcf:citekey order="10">bewegungsfoerderung</bcf:citekey>
-    <bcf:citekey order="11">bundesamtfrstatistik_2015_schlafstoerungen</bcf:citekey>
-    <bcf:citekey order="12">schlaf-grundbeduerfnis-und-lebenselixier</bcf:citekey>
-    <bcf:citekey order="13">bundesamtfrstatistik_2019_arbeitsbedingungen</bcf:citekey>
-    <bcf:citekey order="14">stress-symptoms</bcf:citekey>
-    <bcf:citekey order="15">bundesamtfrgesundheitbag_2020_aufstehen</bcf:citekey>
-    <bcf:citekey order="16">bundesamtfrgesundheitbag_2015_tabak</bcf:citekey>
-    <bcf:citekey order="17">all-about-body-type-eating</bcf:citekey>
+    <bcf:citekey order="1">titelbild</bcf:citekey>
+    <bcf:citekey order="2">gesundheit_definition</bcf:citekey>
+    <bcf:citekey order="3">stufe_getraenke</bcf:citekey>
+    <bcf:citekey order="4">stufe_gemuese_fruechte</bcf:citekey>
+    <bcf:citekey order="5">stufe_getreideprodukte_kartoffeln_huelsenfruechte</bcf:citekey>
+    <bcf:citekey order="6">stufe_milch_milchprodukte</bcf:citekey>
+    <bcf:citekey order="7">stufe_fleisch_fisch_eier_tofu_2</bcf:citekey>
+    <bcf:citekey order="8">stufe_le_fette_nuesse</bcf:citekey>
+    <bcf:citekey order="9">stufe_suesses_salziges_alkoholisches</bcf:citekey>
+    <bcf:citekey order="10">hormone-bei-bewegung</bcf:citekey>
+    <bcf:citekey order="11">bewegungsfoerderung</bcf:citekey>
+    <bcf:citekey order="12">bundesamtfrstatistik_2015_schlafstoerungen</bcf:citekey>
+    <bcf:citekey order="13">schlaf-grundbeduerfnis-und-lebenselixier</bcf:citekey>
+    <bcf:citekey order="14">bundesamtfrstatistik_2019_arbeitsbedingungen</bcf:citekey>
+    <bcf:citekey order="15">stress-symptoms</bcf:citekey>
+    <bcf:citekey order="16">bundesamtfrgesundheitbag_2020_aufstehen</bcf:citekey>
+    <bcf:citekey order="17">bundesamtfrgesundheitbag_2015_tabak</bcf:citekey>
     <bcf:citekey order="18">all-about-body-type-eating</bcf:citekey>
     <bcf:citekey order="19">all-about-body-type-eating</bcf:citekey>
-    <bcf:citekey order="20">gesundheit_definition</bcf:citekey>
+    <bcf:citekey order="20">all-about-body-type-eating</bcf:citekey>
     <bcf:citekey order="21">gesundheit_definition</bcf:citekey>
-    <bcf:citekey order="22">bulletjournal_2020</bcf:citekey>
+    <bcf:citekey order="22">gesundheit_definition</bcf:citekey>
+    <bcf:citekey order="23">bulletjournal_2020</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
