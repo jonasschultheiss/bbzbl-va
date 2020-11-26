@@ -33,6 +33,7 @@
 
 
 
+
 %%%%%%%%%%
 % Packages
 %%%%%%%%%%
@@ -76,6 +77,7 @@
 \usepackage{afterpage}
 \usepackage[backend=biber, style=numeric]{biblatex}
 \usepackage{suffix}
+\usepackage{float}
 
 %%%%%%%%
 % Colors
@@ -193,7 +195,7 @@
 \newcommand{\subtitlesize}{\fontsize{15pt}{10pt}\selectfont}
 \newcommand{\subsubtitlesize}{\fontsize{10pt}{5pt}\selectfont}
 
-\newcommand\chapterauthor[1]{\authortoc{Von #1}\printchapterauthor{Von #1}}
+\newcommand\chapterauthor[2]{\authortoc{Von #1}{#2}\printchapterauthor{Von #1}}
 \WithSuffix\newcommand\chapterauthor*[1]{\printchapterauthor{Von #1}}
 
 \makeatletter\@openrightfalse
@@ -203,10 +205,15 @@
   \par\nobreak\vspace*{35pt}}
   \@afterheading%
 }
-\newcommand{\authortoc}[1]{%
+\newcommand{\authortoc}[2]{%
   \addtocontents{toc}{\vskip-10pt}%
   \addtocontents{toc}{%
     \protect\contentsline{chapter}%
-    {\hskip1.3em\mdseries\scshape\protect\scriptsize#1}{}{}}
+    {\hskip#2\mdseries\scshape\protect\scriptsize Von #1}{}{}}
 }
 \makeatother
+
+\newcommand{\chapterident}{1.55em}
+\newcommand{\sectionident}{3.85em}
+\newcommand{\subsectionident}{7em}
+\newcommand{\subsubsectionident}{19em}

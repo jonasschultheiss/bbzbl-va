@@ -495,6 +495,39 @@
       \verb https://www.precisionnutrition.com/all-about-body-type-eating
       \endverb
     \endentry
+    \entry{schlaf_regeln}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ffd44250c63718434c24cae923ba9e22}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Dr.\bibnamedelimi T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Westfälische Wilhelms-Universität Münster}%
+      }
+      \strng{namehash}{ffd44250c63718434c24cae923ba9e22}
+      \strng{fullhash}{ffd44250c63718434c24cae923ba9e22}
+      \strng{bibnamehash}{ffd44250c63718434c24cae923ba9e22}
+      \strng{authorbibnamehash}{ffd44250c63718434c24cae923ba9e22}
+      \strng{authornamehash}{ffd44250c63718434c24cae923ba9e22}
+      \strng{authorfullhash}{ffd44250c63718434c24cae923ba9e22}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Was kann ich tun, wenn ich nicht schlafen kann? Regeln zum besseren Schlafen}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.uni-muenster.de/imperia/md/content/wwu/kinderuni/schlafregeln.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.uni-muenster.de/imperia/md/content/wwu/kinderuni/schlafregeln.pdf
+      \endverb
+    \endentry
     \entry{hormone-bei-bewegung}{online}{}
       \name{author}{1}{}{%
         {{hash=bd5d6455cc0d452ae5b6b1e4c9304f8e}{%
@@ -638,6 +671,10 @@
       \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
       \field{labeltitlesource}{title}
       \field{title}{Titel Bild}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://thevideoink.com/wp-content/uploads/2020/01/maintaining-a-healthy-lifestyle.jpeg
       \endverb
