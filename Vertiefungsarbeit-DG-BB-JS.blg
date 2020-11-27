@@ -1,20 +1,20 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is 'Vertiefungsarbeit-DG-BB-JS.blg'
-[88] biber-darwin:322> INFO - === Thu Nov 26, 2020, 21:03:00
-[104] Biber.pm:415> INFO - Reading 'Vertiefungsarbeit-DG-BB-JS.bcf'
-[201] Biber.pm:943> INFO - Found 20 citekeys in bib section 0
-[215] Biber.pm:4256> INFO - Processing section 0
-[216] Utils.pm:75> INFO - Globbing data source 'quellen.bib'
-[216] Utils.pm:91> INFO - Globbed data source 'quellen.bib' to quellen.bib
-[225] Biber.pm:4455> INFO - Looking for bibtex format file 'quellen.bib' for section 0
-[226] bibtex.pm:1653> INFO - LaTeX decoding ...
-[250] bibtex.pm:1471> INFO - Found BibTeX data source 'quellen.bib'
-[251] Utils.pm:304> WARN - Duplicate entry key: 'stufe_suesses_salziges_alkoholisches' in file 'quellen.bib', skipping ...
-[334] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/zk/ldwtd2nn2n57w9sfl49m_0bh0000gn/T/biber_tmp_tYAE/quellen.bib_33365.utf8, line 57, warning: 3 characters of junk seen at toplevel
-[363] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[363] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[363] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
-[363] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
-[384] bbl.pm:652> INFO - Writing 'Vertiefungsarbeit-DG-BB-JS.bbl' with encoding 'UTF-8'
-[392] bbl.pm:755> INFO - Output to Vertiefungsarbeit-DG-BB-JS.bbl
-[392] Biber.pm:128> INFO - WARNINGS: 2
+[79] biber-darwin:322> INFO - === Fri Nov 27, 2020, 01:46:59
+[93] Biber.pm:415> INFO - Reading 'Vertiefungsarbeit-DG-BB-JS.bcf'
+[187] Biber.pm:943> INFO - Found 20 citekeys in bib section 0
+[200] Biber.pm:4256> INFO - Processing section 0
+[200] Utils.pm:75> INFO - Globbing data source 'quellen.bib'
+[200] Utils.pm:91> INFO - Globbed data source 'quellen.bib' to quellen.bib
+[211] Biber.pm:4455> INFO - Looking for bibtex format file 'quellen.bib' for section 0
+[212] bibtex.pm:1653> INFO - LaTeX decoding ...
+[234] bibtex.pm:1471> INFO - Found BibTeX data source 'quellen.bib'
+[235] Utils.pm:304> WARN - Duplicate entry key: 'stufe_suesses_salziges_alkoholisches' in file 'quellen.bib', skipping ...
+[303] Utils.pm:304> WARN - BibTeX subsystem: /var/folders/zk/ldwtd2nn2n57w9sfl49m_0bh0000gn/T/biber_tmp_oR8m/quellen.bib_4253.utf8, line 57, warning: 3 characters of junk seen at toplevel
+[327] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[327] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[328] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[328] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
+[346] bbl.pm:652> INFO - Writing 'Vertiefungsarbeit-DG-BB-JS.bbl' with encoding 'UTF-8'
+[353] bbl.pm:755> INFO - Output to Vertiefungsarbeit-DG-BB-JS.bbl
+[353] Biber.pm:128> INFO - WARNINGS: 2
